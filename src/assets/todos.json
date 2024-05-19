@@ -1,0 +1,41 @@
+{
+    "backlog": [
+        {
+            "id": 1,
+            "category": "Back",
+            "content": "Mettre à jour la fonction recherche",
+            "createdAt": "2024-04-13",
+            "comments": 3,
+            "savings": 0
+        },
+        {
+            "id": 2,
+            "category": "Back",
+            "content": "Activer l'authentification",
+            "createdAt": "2024-04-13",
+            "comments": 0,
+            "savings": 0
+        },
+        {
+            "id": 3,
+            "category": "Frontend",
+            "content": "Trouver les erreurs console",
+            "createdAt": "2024-04-13",
+            "comments": 0,
+            "savings": 0
+        },
+        {
+            "id": 4,
+            "category": "DevOps",
+            "content": "Mettre à jour la preprod",
+            "createdAt": "2024-04-13",
+            "comments": 1,
+            "savings": 0
+        }
+    ],
+    "ready": [],
+    "doing": [],
+    "review": [],
+    "deploy": [],
+    "done": []
+}
